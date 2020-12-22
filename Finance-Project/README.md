@@ -14,3 +14,8 @@
 | [![Ene](https://raw.githubusercontent.com/kasilova/MLUsingPython/main/images/ND%20image.png "Ene")](https://raw.githubusercontent.com/kasilova/MLUsingPython/main/images/ND%20image.png "Ene")  |Energy Project  |
 
 
+```python
+for i in range(0,100,3):
+	print("Hello")
+print("Done")
+```
